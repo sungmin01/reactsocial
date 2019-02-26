@@ -8,7 +8,7 @@ address, em, i {font-style: normal;}
 table {border-collapse: collapse;}
 * {box-sizing: border-box;}
 
-.title_web{text-align:center;}
+.title_web{text-align:center; font-size:12px;}
 
 .image_loading {text-align: center;}
 
